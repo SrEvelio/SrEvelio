@@ -3,7 +3,7 @@
 </a>
 </p>
 
-![Node.js](https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js)&nbsp;
+[![Node.js](https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js)&nbsp;](https://nodejs.org)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Html](https://img.shields.io/badge/-html-333333?style=flat&logo=html)&nbsp;                                                                    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;     ![Replit](https://img.shields.io/badge/-replit-333333?style=flat&logo=replit)
