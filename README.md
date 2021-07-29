@@ -6,6 +6,6 @@
 </a>
 </p>
 
-### -------------------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------
 <a href="https://discord.gg/KjPq39Pyty"><img src="http://invidget.switchblade.xyz/KjPq39Pyty"/></a>
 <a href="https://discord.gg/brYU6Z9"><img src="http://invidget.switchblade.xyz/brYU6Z9"/></a>
