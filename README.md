@@ -1,4 +1,11 @@
 ![OnePiece](https://github.com/SrEvelio/SrEvelio/blob/main/assets/onepiece.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Evelio</h1>
 <h3 align="center">I'm a Javascript backend developer, who develops in his free time usually in my projects the team is only me, but some friends help me :D</h3>
 
