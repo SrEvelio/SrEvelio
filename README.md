@@ -1,4 +1,4 @@
-![OnePiece](https://github.com/SrEvelio/SrEvelio/blob/main/assets/onepiece.gif)
+![Background](https://github.com/SrEvelio/SrEvelio/blob/main/assets/background.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake-dark.svg" />
@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Evelio</h1>
 <h3 align="center">I'm a Javascript backend developer, who develops in his free time usually in my projects the team is only me, but some friends help me :D</h3>
 
-- 🔭 I’m currently working on **Mandarina**
+- 🔭 I’m currently working on **Nothing**
 - 🌱 I’m currently learning **React and Java**
 - 👨‍💻 All of my projects are available at **https://evelio.is-a.dev/**
 - ⚡ Fun fact **Two things are infinite: human stupidity and the universe; and I'm not sure about the latter.**
