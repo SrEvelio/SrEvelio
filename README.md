@@ -1,5 +1,3 @@
-![Background](https://github.com/SrEvelio/SrEvelio/blob/main/assets/background.gif)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrEvelio/SrEvelio/output/github-snake.svg" />
